@@ -3,7 +3,7 @@
 A clean, **beginner-friendly**, repo for training and comparing **object detection models** on custom datasets (using Ultralytics).
 
 The example dataset was developed during a senior design project on autonomous date pollination at Qatar University, and is available on:
-> **Demo dataset:** [Date Female Flowers — Roboflow Universe](https://universe.roboflow.com/date-female-flowers/date-female-flowers-updated-y0hjq)
+> **Demo dataset:** [Female Date Flowers Dataset](https://universe.roboflow.com/date-female-flowers/date-female-flowers-updated-y0hjq)
 
 
 ## Models Supported
