@@ -123,8 +123,6 @@ This produces `results/model_comparison.csv` with:
 | `Latency mean (ms)` | Average inference time per image |
 | `FPS` | Frames per second |
 | `Size (MB)` | Model file size |
-
-Don't put these on your report blindly. Understand where they come and what they mean. There are more metrics you may want to use depending on your application, but usually they can be derived from these or require only a little tweek to the code.
 ---
 
 ## Tuning Tips
